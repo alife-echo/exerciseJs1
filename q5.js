@@ -7,3 +7,4 @@ let verifyLetter = (name) =>{
       }
 }
 verifyLetter('Nandson')
+verifyLetter('Aline')
